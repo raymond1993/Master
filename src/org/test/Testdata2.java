@@ -7,5 +7,6 @@ testData2();
 	}
 	public static void testData2() {
 System.out.println("Test  Data");
+System.out.println("sample data");
 }
 }
